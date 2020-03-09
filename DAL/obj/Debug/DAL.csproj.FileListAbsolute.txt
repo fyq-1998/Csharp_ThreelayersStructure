@@ -1,0 +1,7 @@
+c:\Users\fyq15\documents\visual studio 2013\Projects\业务逻辑练习\DAL\bin\Debug\DAL.dll
+c:\Users\fyq15\documents\visual studio 2013\Projects\业务逻辑练习\DAL\bin\Debug\DAL.pdb
+c:\Users\fyq15\documents\visual studio 2013\Projects\业务逻辑练习\DAL\bin\Debug\Model.dll
+c:\Users\fyq15\documents\visual studio 2013\Projects\业务逻辑练习\DAL\bin\Debug\Model.pdb
+c:\Users\fyq15\documents\visual studio 2013\Projects\业务逻辑练习\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\Users\fyq15\documents\visual studio 2013\Projects\业务逻辑练习\DAL\obj\Debug\DAL.dll
+c:\Users\fyq15\documents\visual studio 2013\Projects\业务逻辑练习\DAL\obj\Debug\DAL.pdb

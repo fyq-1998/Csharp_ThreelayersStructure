@@ -1,0 +1,5 @@
+c:\Users\fyq15\documents\visual studio 2013\Projects\业务逻辑练习\Model\bin\Debug\Model.dll
+c:\Users\fyq15\documents\visual studio 2013\Projects\业务逻辑练习\Model\bin\Debug\Model.pdb
+c:\Users\fyq15\documents\visual studio 2013\Projects\业务逻辑练习\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+c:\Users\fyq15\documents\visual studio 2013\Projects\业务逻辑练习\Model\obj\Debug\Model.dll
+c:\Users\fyq15\documents\visual studio 2013\Projects\业务逻辑练习\Model\obj\Debug\Model.pdb

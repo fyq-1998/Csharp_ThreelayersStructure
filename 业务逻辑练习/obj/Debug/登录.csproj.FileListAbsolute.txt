@@ -1,0 +1,15 @@
+c:\users\fyq15\documents\visual studio 2013\Projects\业务逻辑练习\业务逻辑练习\bin\Debug\业务逻辑练习.exe.config
+c:\users\fyq15\documents\visual studio 2013\Projects\业务逻辑练习\业务逻辑练习\bin\Debug\业务逻辑练习.exe
+c:\users\fyq15\documents\visual studio 2013\Projects\业务逻辑练习\业务逻辑练习\bin\Debug\业务逻辑练习.pdb
+c:\users\fyq15\documents\visual studio 2013\Projects\业务逻辑练习\业务逻辑练习\bin\Debug\BLL.dll
+c:\users\fyq15\documents\visual studio 2013\Projects\业务逻辑练习\业务逻辑练习\bin\Debug\Model.dll
+c:\users\fyq15\documents\visual studio 2013\Projects\业务逻辑练习\业务逻辑练习\bin\Debug\DAL.dll
+c:\users\fyq15\documents\visual studio 2013\Projects\业务逻辑练习\业务逻辑练习\bin\Debug\BLL.pdb
+c:\users\fyq15\documents\visual studio 2013\Projects\业务逻辑练习\业务逻辑练习\bin\Debug\Model.pdb
+c:\users\fyq15\documents\visual studio 2013\Projects\业务逻辑练习\业务逻辑练习\bin\Debug\DAL.pdb
+c:\users\fyq15\documents\visual studio 2013\Projects\业务逻辑练习\业务逻辑练习\obj\Debug\登录.csprojResolveAssemblyReference.cache
+c:\users\fyq15\documents\visual studio 2013\Projects\业务逻辑练习\业务逻辑练习\obj\Debug\登录.Form1.resources
+c:\users\fyq15\documents\visual studio 2013\Projects\业务逻辑练习\业务逻辑练习\obj\Debug\登录.Properties.Resources.resources
+c:\users\fyq15\documents\visual studio 2013\Projects\业务逻辑练习\业务逻辑练习\obj\Debug\登录.csproj.GenerateResource.Cache
+c:\users\fyq15\documents\visual studio 2013\Projects\业务逻辑练习\业务逻辑练习\obj\Debug\业务逻辑练习.exe
+c:\users\fyq15\documents\visual studio 2013\Projects\业务逻辑练习\业务逻辑练习\obj\Debug\业务逻辑练习.pdb
